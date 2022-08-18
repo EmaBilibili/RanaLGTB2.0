@@ -354,6 +354,7 @@
 "Assets/Scripts/EnemyHealth.cs"
 "Assets/Scripts/EnemyMove.cs"
 "Assets/Scripts/GeneradorOleada.cs"
+"Assets/Scripts/MenuPausa.cs"
 "Assets/Scripts/NewShot.cs"
 "Assets/Scripts/nodo.cs"
 "Assets/Scripts/Stats.cs"
