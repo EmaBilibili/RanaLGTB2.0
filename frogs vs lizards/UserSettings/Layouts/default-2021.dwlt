@@ -146,7 +146,11 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< HEAD
   controlID: 48
+=======
+  controlID: 15
+>>>>>>> a5b131316596b9cb41a3015564bd8c70f2448f75
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,7 +175,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< HEAD
   controlID: 49
+=======
+  controlID: 16
+>>>>>>> a5b131316596b9cb41a3015564bd8c70f2448f75
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -196,7 +204,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< HEAD
   controlID: 50
+=======
+  controlID: 17
+>>>>>>> a5b131316596b9cb41a3015564bd8c70f2448f75
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -309,7 +321,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 745f0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 36fbffff
+      m_ExpandedIDs: 24fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -801,12 +813,17 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/Materiales
+=======
+    - Assets/Scenes
+>>>>>>> a5b131316596b9cb41a3015564bd8c70f2448f75
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 74
   m_LastFolders:
+<<<<<<< HEAD
   - Assets/Materiales
   m_LastFoldersGridSize: 74
   m_LastProjectPath: E:\JAMS\3Meses\RanaLGTB2.0\frogs vs lizards
@@ -817,6 +834,18 @@ MonoBehaviour:
     m_SelectedIDs: 185f0000
     m_LastClickedID: 24344
     m_ExpandedIDs: 00000000065f0000085f000000ca9a3bffffff7f
+=======
+  - Assets/Scenes
+  m_LastFoldersGridSize: 74
+  m_LastProjectPath: D:\gordo culiado\RanaLGTB2.0\frogs vs lizards
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 1e5f0000
+    m_LastClickedID: 24350
+    m_ExpandedIDs: 000000000c5f00000e5f000000ca9a3bffffff7f
+>>>>>>> a5b131316596b9cb41a3015564bd8c70f2448f75
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -844,7 +873,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000065f0000085f0000
+    m_ExpandedIDs: 000000000c5f00000e5f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -871,7 +900,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000ee5d000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
